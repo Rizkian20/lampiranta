@@ -1,0 +1,1 @@
+geth --networkid 1337 --datadir "." --nodiscover --http --http.port "8545" --http.addr "192.168.1.13" --port "30303" --http.corsdomain "*" --nat "any" --http.api eth,web3,personal,net,admin --unlock 0xeF7904EC0e1138dCACB3BBaf12e37bE2DE442904 --password ./password.sec --ipcpath "~/.ethereum/geth.ipc" --allow-insecure-unlock --nousb
