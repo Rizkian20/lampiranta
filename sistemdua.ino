@@ -30,7 +30,6 @@ void setup() {
   sensors.begin();
 
   Serial.begin(9600);
-  // Connect to WiFi
   WiFi.begin(ssid, password);
   while (WiFi.status() != WL_CONNECTED) 
   {
