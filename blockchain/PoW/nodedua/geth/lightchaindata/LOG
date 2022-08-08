@@ -1,0 +1,8 @@
+=============== Jul 17, 2022 (WIB) ===============
+13:07:14.373829 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+13:07:14.408619 db@open opening
+13:07:14.409754 version@stat F·[] S·0B[] Sc·[]
+13:07:14.426172 db@janitor F·2 G·0
+13:07:14.426209 db@open done T·17.536793ms
+13:07:14.580381 db@close closing
+13:07:14.580488 db@close done T·75.925µs
